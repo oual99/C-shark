@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1589007803 source:e:\smis4\programmation 2\projets-exposé\projet\projet\main.c
+	"file1.h"
+	"file2.h"
+
+1587756752 source:e:\smis4\programmation 2\projets-exposé\ressources\expl2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589009627 e:\smis4\programmation 2\projets-exposé\projet\projet\file1.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
+1589009508 source:e:\smis4\programmation 2\projets-exposé\projet\projet\file1.c
+	"file1.h"
+	"file2.h"
+
+1588998772 e:\smis4\programmation 2\projets-exposé\projet\projet\file2.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589009718 source:e:\smis4\programmation 2\projets-exposé\projet\projet\file2.c
+	"file1.h"
+	"file2.h"
+
+1589151249 source:e:\smis4\programmation 2\projet_new\file2.c
+	"file1.h"
+	"file2.h"
+	"file3.h"
+
+1589311648 e:\smis4\programmation 2\projet_new\file1.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
+1589146746 e:\smis4\programmation 2\projet_new\file2.h
+	"file1.h"
+
+1589125439 source:e:\smis4\programmation 2\projet_new\main.c
+	"file1.h"
+
+1589314812 source:e:\smis4\programmation 2\projet_new\file3.c
+	"file1.h"
+	"file2.h"
+	"file3.h"
+
+1589319321 source:e:\smis4\programmation 2\projet_new\file1.c
+	"file1.h"
+	"file2.h"
+
+1589146746 e:\smis4\programmation 2\projet_new\file3.h
+	"file1.h"
+
